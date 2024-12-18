@@ -18,6 +18,12 @@ The icon filenames follow a consistent pattern to make them easy to use and inte
   - `nav_turn_left.svg`
   - `nav_continue_straight.svg`
   - `nav_roundabout_slight_right.svg`
+ 
+## Design Convention
+
+The icons in this repo are 48*48px.
+![Grid and layout](https://github.com/user-attachments/assets/ab0381b6-faea-436a-bd62-44dc8ae1cc33)
+
 
 ## Available Icons
 
