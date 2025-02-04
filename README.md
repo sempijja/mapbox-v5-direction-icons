@@ -51,6 +51,4 @@ We welcome contributions! Whether it's adding new icons, improving existing ones
 ```bash
 git clone https://github.com/sempijja/navigation-icons.git
 cd navigation-icons
-npm install
-npm start
 
